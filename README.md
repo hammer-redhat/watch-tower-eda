@@ -1,3 +1,5 @@
+# Deprecated
+Use this repo instead: https://github.com/hammer-redhat/aap-multisite-failover-eda 
 # Watch Tower EDA
 
 Watch Tower EDA is a project designed to monitor and failover a multi-site Ansible Automation Platform deployment on two independent Openshift clusters.
